@@ -2,9 +2,9 @@
 A program that downloads then parses all 26 files containing all the courses taught for the current semester at the American University of Beirut
 from this site https://www-banner.aub.edu.lb/catalog/schedule_header.html 
 Then build an in-memory database with all the courses, 
-then allow the user to query the database using command line interface and/or a Telegram Bot called @nathalie_melhem_telegram_bot.
+then allow the user to query the database using command line interface and/or a Telegram Bot called @nathalie_melhem_telegram_bot. <br /> <br />
 
-The queries type:
+The queries type: <br />
 	allroomSchedule: lists the schedule for every room in alphabetical room number order <br />
 	roomSchedule : lists the schedule for a specific room     <br />
 	roomSchedule + date: lists the schedule for a specific room for a specific date  \n
